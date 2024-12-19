@@ -1,0 +1,6 @@
+# Project configuration
+project_id = "toobrchgcvfbwusrgvrj"
+
+[functions]
+[functions.process-video]
+verify_jwt = true
